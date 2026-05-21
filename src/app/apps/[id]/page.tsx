@@ -33,7 +33,7 @@ export default async function AppDetailPage({ params }: Props) {
   const otherApps = apps.filter((a) => a.id !== app.id && !a.isSecret);
 
   return (
-    <article className="mx-auto max-w-5xl px-6 py-12">
+    <article className="mx-auto max-w-6xl px-6 py-12">
       {/* Back link */}
       <Link
         href="/"
@@ -153,7 +153,7 @@ export default async function AppDetailPage({ params }: Props) {
       {/* Screenshots placeholder */}
       {app.screenshots.length > 0 && (
         <div
-          className="animate-fade-in-up mt-16"
+          className="animate-fade-in-up mt-16 "
           style={{ animationDelay: "200ms" }}
         >
           <h2 className="mb-6 text-xl font-semibold">Screenshots</h2>

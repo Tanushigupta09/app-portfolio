@@ -18,7 +18,7 @@ export default function Home() {
                 <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-neon-green opacity-75" />
                 <span className="relative inline-flex h-2 w-2 rounded-full bg-neon-green" />
               </span>
-              Open to mobile, iOS & full-stack roles
+             Open to mobile, frontend & frontend-heavy full-stack roles
             </span>
           </div>
 
@@ -80,7 +80,7 @@ export default function Home() {
             </div>
             <div className="neon-border rounded-xl border border-border bg-card/60 p-4 backdrop-blur-sm">
               <p className="text-3xl font-bold text-neon-pink neon-text-pink">
-                1.5+
+                2+
               </p>
               <p className="mt-1 text-sm text-muted-foreground">
                 Years Experience
@@ -120,7 +120,7 @@ export default function Home() {
             </h2>
             <div className="mt-6 space-y-4 text-left leading-relaxed text-muted-foreground">
               <p>
-                Mobile-first Full-Stack Engineer with 1.5+ years of experience
+                Mobile-first Full-Stack Engineer with 2+ years of experience
                 designing and shipping production-ready web and cross-platform
                 applications using React Native, SwiftUI, React, Next.js,
                 TypeScript, and backend technologies like Node.js and NestJS.

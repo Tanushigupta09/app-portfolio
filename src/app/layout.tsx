@@ -66,7 +66,7 @@ export default function RootLayout({
                 About
               </a>
               <a
-                href="mailto:hello@example.com"
+                href="mailto:guptadeepali1972@gmail.com"
                 className="rounded-full border border-neon-pink/40 bg-neon-pink/10 px-4 py-1.5 text-neon-pink transition-all hover:bg-neon-pink/20 hover:shadow-[0_0_15px_rgba(244,114,182,0.2)]"
               >
                 Contact

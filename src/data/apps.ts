@@ -81,7 +81,7 @@ export const apps: App[] = [
   },
   {
     id: "stealth-project",
-    name: "Jiffy By Spencer's",
+    name: "Jiffy By Spencers",
     tagline: "Something exciting is in the works",
     description:
       "Spencer's Retail launched Jiffy as its entry into India’s fast-growing quick commerce market in early 2025. The platform focuses on delivering groceries, FMCG products, personal care items, snacks, home essentials, and electronics within 20–30 minutes. Unlike competitors such as Blinkit, Zepto, and Swiggy Instamart that rely heavily on dark-store infrastructure, Jiffy operates through Spencer’s existing physical stores and third-party delivery fleets. This helps Spencer’s reduce infrastructure costs while entering the quick commerce race",
@@ -90,19 +90,19 @@ export const apps: App[] = [
     platforms: ["ios", "android"],
     screenshots: [{
       url:"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/aa/98/8faa9846-5bac-64c6-6242-011969970f75/1242__U00d7_2688_1__U00281_U0029.png/460x996bb.webp",
-      alt:"Jiffy by Spencer's Preview"
+      alt:"Jiffy by Spencers Preview"
     },{
       url:"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/e3/df/9fe3dff0-665e-d996-f533-9c74bcb351b0/1242__U00d7_2688_2__U00281_U0029.png/460x996bb.webp",
-      alt:"Jiffy by Spencer's Preview"
+      alt:"Jiffy by Spencers Preview"
     },{
       url:"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/94/01/6f9401f5-2ba4-6872-f155-d19fc68f3764/1242__U00d7_2688_3__U00281_U0029.png/460x996bb.webp",
-       alt:"Jiffy by Spencer's Preview"
+       alt:"Jiffy by Spencers Preview"
     },{
       url:"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/de/5e/48de5e91-0ac5-bab7-cf9d-d6fbf0055104/1242__U00d7_2688_4__U00281_U0029.png/460x996bb.webp",
-     alt:"Jiffy by Spencer's Preview"
+     alt:"Jiffy by Spencers Preview"
     },{
       url:"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/29/91/70299158-0586-f893-b0b1-81c16cd8c367/1242__U00d7_2688_5__U00281_U0029.png/460x996bb.webp",
- alt:"Jiffy by Spencer's Preview"
+ alt:"Jiffy by Spencers Preview"
     }],
     features: ["Widget-driven UI architecture","Dynamic homepage rendering via backend configs","Manual checkout & order flow","Real-time cart & inventory handling","Loyalty & rewards membership system","Coupon, cashback & offer integrations","AI chatbot & customer support flow","Migration to scalable new architecture","Performance optimization & app stability improvements","Reusable component-driven development","Play Store & App Store production releases","Analytics, tracking & event instrumentation","Responsive UI for high-volume quick commerce traffic","Category listing & product detail pages"],
     techStack: ["React Native", "Typescript", "React.js", "React Navigation","Reanimated","Sentry",
